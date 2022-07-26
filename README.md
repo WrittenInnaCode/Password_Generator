@@ -22,3 +22,12 @@ When all prompts are answered, a password is generated that matches the selected
 
 
 
+## Usage
+User can find deployed app at [https://writteninnacode.github.io/Password_Generator/](https://writteninnacode.github.io/Password_Generator)
+
+
+The repo can be found at [https://github.com/WrittenInnaCode/Password_Generator](https://github.com/WrittenInnaCode/Password_Generator)
+
+
+
+![alt screen shot](PasswordScreenShot.png)
